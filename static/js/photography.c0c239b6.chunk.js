@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[207],{2171:function(e,a,n){n.r(a);n(2791);var s=n(184);a.default=function(){return(0,s.jsx)("div",{className:"home-wrap",children:(0,s.jsx)("main",{children:"\u6444\u5f71"})})}}}]);
+//# sourceMappingURL=photography.c0c239b6.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[456],{4996:function(e,n,u){u.r(n);var c=u(184);n.default=function(){return(0,c.jsx)("div",{children:(0,c.jsx)("h1",{children:"Comment"})})}}}]);
+//# sourceMappingURL=Comment.8e62208b.chunk.js.map
