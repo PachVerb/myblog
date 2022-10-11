@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[74],{5395:function(n,a,e){e.r(a),e.d(a,{default:function(){return u}});e(2791);var r=e(184);var u=function(){return(0,r.jsx)("div",{className:"about-wrap",children:(0,r.jsx)("h3",{children:"\u5173\u4e8e\u767d\u96ea\u7684\u6545\u4e8b"})})}}}]);
-//# sourceMappingURL=About.8ada8474.chunk.js.map
